@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+.konteineri1 {
+    height: 321px;
+    width: 315px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    margin-left: 750px; 
+}
